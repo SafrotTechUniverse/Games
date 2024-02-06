@@ -17,3 +17,7 @@
 
 <img alt="faces-names.png" src="assets/faces-names.png" />
 
+<a name="notation"></a>
+#### Describing movements using notation.
+
+<img alt="movements.png" src="assets/movements.png" />
